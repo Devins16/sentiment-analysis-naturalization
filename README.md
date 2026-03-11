@@ -12,7 +12,7 @@ Due to data ownership and academic project limitations, the original dataset is 
 ## Data Visualization
 
 ### Word Cloud
-![Word Cloud](assets/wordcloud.png)
+![Word Cloud](Picture/wordcloud.png)
 
 ### Sentiment Distribution
-![Sentiment Distribution](assets/sentiment_distribution.png)
+![Sentiment Distribution](Picture/distribusi.png)
